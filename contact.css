@@ -1,0 +1,5 @@
+.main {
+    background-color: honeydew;
+    display: flex;
+    justify-content: space-between;
+}
