@@ -1,0 +1,9 @@
+.main {
+    background-color: honeydew;
+    display: flex;
+    justify-content: space-between;
+}
+.mindset{
+    display: flex;
+    justify-content: center;
+}
