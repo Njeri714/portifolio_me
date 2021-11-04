@@ -7,3 +7,17 @@
 span{
     color: dimgray;
 }
+footer{
+    background-color: blanchedalmond;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 50;
+}
+
+.solve{
+    display: flex;
+    justify-content: center;
+   
+}

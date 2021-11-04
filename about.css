@@ -7,3 +7,19 @@
     display: flex;
     justify-content: center;
 }
+footer{
+    background-color: blanchedalmond;
+}
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 50;
+}
+strong{
+    color: black;
+    font-weight: 900;
+}
+h1{
+    color: cyan;
+}
