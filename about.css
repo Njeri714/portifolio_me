@@ -23,3 +23,9 @@ strong{
 h1{
     color: cyan;
 }
+.hobbies {
+  border-left:4px solid red;
+  border-right: 4px solid red;
+  border-top: 4px solid red;
+  border-bottom: 4px solid red;
+}
