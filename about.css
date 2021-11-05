@@ -16,7 +16,7 @@ footer{
     font-size: large;
     font-weight: 50;
 }
-strong{
+.saying{
     color: black;
     font-weight: 900;
 }
@@ -28,4 +28,14 @@ h1{
   border-right: 4px solid red;
   border-top: 4px solid red;
   border-bottom: 4px solid red;
+}
+
+strong {
+    color: #33F3FF;
+}
+
+.hobbies{
+    font-size: small;
+    font-family: fantasy;
+    font-style: italic;
 }
