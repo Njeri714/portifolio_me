@@ -24,3 +24,8 @@ In the website below has my resume and background information about me plus a li
 Slack- Charity Waweru
 Email- charity.waweru@student.moringaschool.com
 
+ ## links
+  1. https://github.com/Njeri714/portifolio_me 
+  2. 
+
+  
