@@ -19,3 +19,8 @@ In the website below has my resume and background information about me plus a li
  ### you need;
     1. Internet
     2. Access to a smart phone or computer
+
+## Authors information
+Slack- Charity Waweru
+Email- charity.waweru@student.moringaschool.com
+
