@@ -22,6 +22,7 @@ In the website below has my resume and background information about me plus a li
 
 ## Authors information
 Slack- Charity Waweru
+
 Email- charity.waweru@student.moringaschool.com
 
  ## links

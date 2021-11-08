@@ -30,13 +30,9 @@ h1{
   border-bottom: 4px solid ;
 }
 
-strong {
-    color: #33F3FF;
-}
-
 .hobbies{
     font-size: small;
     font-family: fantasy;
     font-style: italic;
-    
+    background-color: aqua;
 }
