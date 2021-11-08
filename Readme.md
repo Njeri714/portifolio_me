@@ -27,7 +27,7 @@ Email- charity.waweru@student.moringaschool.com
 
  ## links
   1. https://github.com/Njeri714/portifolio_me 
-  2. 
+  2. https://njeri714.github.io/portifolio_me/   link to gh-pages
 
  ## license
 copyright [2021]
