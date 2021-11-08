@@ -10,3 +10,12 @@
  3. Reference
  4. Authors information
  5. Licence
+
+
+## Description
+In the website below has my resume and background information about me plus a little about my work(samples)
+
+## Installation
+ ### you need;
+    1. Internet
+    2. Access to a smart phone or computer
