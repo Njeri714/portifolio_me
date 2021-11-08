@@ -28,4 +28,8 @@ Email- charity.waweru@student.moringaschool.com
   1. https://github.com/Njeri714/portifolio_me 
   2. 
 
-  
+ ## license
+copyright [2021]
+
+Anyone wanting to change or push something else in the website is allowed.
+To copy , print or do anything relatrd to media press is not allowed.
