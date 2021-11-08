@@ -25,3 +25,7 @@ footer{
     font-style: oblique;
     background-color: violet;
 }
+.float{
+    display: flex;
+    float: right;
+}
